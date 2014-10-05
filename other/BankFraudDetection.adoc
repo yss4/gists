@@ -210,6 +210,7 @@ ORDER BY 	RingSize DESC
 
 //output
 //table
+//graph
 
 ==== Determine the financial risk of a possible fraud ring
 
@@ -237,3 +238,4 @@ ORDER BY 	FinancialRisk DESC
 
 //output
 //table
+//graph
